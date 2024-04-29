@@ -1,0 +1,14 @@
+package com.demo.securepay;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+@SpringBootApplication
+public class SecurepayApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SecurepayApplication.class, args);
+    }
+
+}
